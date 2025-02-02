@@ -39,5 +39,5 @@ This dataset can be used for:
 This dataset is provided for research and educational purposes only. It should not be used for any commercial or medical decision-making purposes.
 
 ## Contact
-For any inquiries or suggestions, please reach out to the dataset creator.
+For any inquiries or suggestions, please reach out to the dataset creator at ammaryasser12603@gmail.com.
 
