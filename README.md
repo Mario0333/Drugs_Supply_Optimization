@@ -1,4 +1,4 @@
-# README: Pharmaceutical Sales Dataset
+# README: Drugs Supply Chain Dataset
 
 ## Overview
 This dataset contains synthetic data representing pharmaceutical sales transactions. It includes information about sales type, patient details, specializations, departments, billing details, quantities, costs, and drug-related categories.
